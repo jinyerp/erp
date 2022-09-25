@@ -1,0 +1,7 @@
+{
+    "Admin": true,
+    "Actions": true,
+    "Titlebar": true,
+    "Menus": true,
+    "Migration": true
+}
